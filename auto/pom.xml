@@ -15,11 +15,7 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>lc.kra.system</groupId>
-            <artifactId>system-hook</artifactId>
-            <version>3.8</version>
-        </dependency>
+
     </dependencies>
     <build>
         <plugins>
